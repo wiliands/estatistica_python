@@ -1,2 +1,2 @@
 # estatistica_python
-Estatísticas em Python
+Estatísticas em Python - Alura
